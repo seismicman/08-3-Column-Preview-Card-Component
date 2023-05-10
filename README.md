@@ -24,7 +24,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/07-Stats-Preview-Card_Component/](https://seismicman.github.io/07-Stats-Preview-Card_Component/)
+Solution URL: [https://seismicman.github.io/08-3-Column-Preview-Card-Component/](https://seismicman.github.io/08-3-Column-Preview-Card-Component/)
 
 ## My process
 
